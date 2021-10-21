@@ -1,0 +1,17 @@
+{
+  "name": "pco-manager",
+  "version": "1.0.0",
+  "description": "Automate Planning Center Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Lloyd",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "events": "^3.3.0",
+    "moment": "^2.29.1",
+    "snekfetch": "^4.0.4"
+  }
+}
